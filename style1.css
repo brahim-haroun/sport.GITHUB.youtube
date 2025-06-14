@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+    font-size: xx-large;
+    text-transform: uppercase;
+    background-color: blue;
+    color:chartreuse;
+}
+.ibra{
+    background-color: red;
+    width:50%;
+    height: 500px;
+    color:red;
+    float:left;
+}
+.mere{
+    background-color: black;
+    width:50%;
+    height: 500px;
+    color:blue;
+    text-align: center;
+    float:right;
+}
+img{
+    width:400px;
+    height: 400px;
+
+}

@@ -1,0 +1,64 @@
+header{
+    background-color:navy;
+    color:red;
+    text-shadow: 0cap;
+    text-transform:uppercase;
+    text-align: center;
+    font-variant-position:center ;
+    height: 15%;
+    width:100%;
+    font-size: xx-large;
+    justify-content: center;
+    border:3px solid BLACK;
+
+}
+.menugauche {
+  float: left;
+  width: 25%;
+  height: 900px;
+  background-color:darkgreen;
+  color: greenyellow;
+  text-align: center;
+  font-size: xx-large;
+}
+select{
+    background-color:greenyellow;
+    text-transform: uppercase;
+    font-size:xx-large ;
+}
+
+.sectiondroit {
+  float: right;
+  width: 75%;
+  height: 900px;
+  background-color:cyan;
+  color: black;
+  text-align: center;
+
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+img{
+  padding:5px;
+   margin:40px;
+   display: inline;
+}
+ol{
+    text-align: left;
+    color:black
+}
+h2{
+    color:blue;
+}
+footer{
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+
